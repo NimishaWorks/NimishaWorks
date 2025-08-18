@@ -82,7 +82,3 @@ Let’s build something meaningful — one line of code at a time.
 
 ---
 
-### 👀 Visitors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nimishaworks.nimishaworks)
-
