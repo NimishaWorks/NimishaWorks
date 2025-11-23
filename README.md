@@ -20,12 +20,6 @@ Let’s build something meaningful — one line of code at a time.
 
 ---
 
-### 🔭 Current Project
-
-- I’m currently working on **[CitiFix](https://citi-fix.vercel.app/)** — a crowdsourced public issue reporting platform
-
----
-
 ### 💬 Ask Me About
 
 **HTML**, **CSS**, **JavaScript**, **Python**, **C**
