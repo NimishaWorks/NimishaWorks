@@ -8,21 +8,20 @@
 
 ### 💫 About Me
 
-Hi! I’m a **3rd-year B.Tech student at SRMIST**, passionate about **Web Development**, **Data Analytics**, and **Data Science**.
+Hi! I’m a Final-year B.Tech student at SRM Institute of Science and Technology (SRMIST), passionate about Full Stack Development, Data Analytics, and AI-powered applications.
 
-- 💻 I love turning ideas into interactive, real-world projects  
-- 📊 I enjoy exploring data, uncovering patterns, and building data-driven solutions  
-- 🌱 Always learning — from new frameworks to fun bugs that teach me more than tutorials  
-- 🚀 Eager to collaborate, contribute to open source, and keep growing as a developer  
-- ☕ Fueled by curiosity (and sometimes caffeine)  
-
-Let’s build something meaningful — one line of code at a time.
-
+💻 Building real-world projects that solve practical problems
+🚀 Developed projects like CitiFix, a crowdsourced civic issue reporting platform
+📊 Interested in data-driven decision making and intelligent systems
+🌱 Currently learning AI/ML concepts, RAG applications, and scalable backend development
+🤝 Open to internships, collaborations, and open-source contributions
+⚡ Strong interest in creating impactful and user-friendly applications
+I enjoy turning ideas into meaningful digital solutions through clean code and continuous learning.
 ---
 
 ### 💬 Ask Me About
 
-**HTML**, **CSS**, **JavaScript**, **Python**, **C**
+Frontend Development • JavaScript • Python • Data Analytics • SQL • Firebase • AI/ML Basics • Problem Solving
 
 ---
 
@@ -76,3 +75,4 @@ Let’s build something meaningful — one line of code at a time.
 
 ---
 
+✨ Passionate about creating technology that makes everyday life better.
